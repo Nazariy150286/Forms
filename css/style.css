@@ -78,9 +78,19 @@
 }
 .yellow_smile {
   position: absolute;
+  top: 544px;
+  left: 763px;
+  z-index: 2;
 }
 .pink_smile {
   position: absolute;
   left: 762px;
   bottom: 72px;
+  z-index: 1;
+}
+.footer {
+  border: 1px solid #d8d8d8;
+  background: #fafafa;
+  height: 200px;
+  width: 100%;
 }
