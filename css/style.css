@@ -78,8 +78,8 @@
 }
 .yellow_smile {
   position: absolute;
-  top: 544px;
-  left: 763px;
+  top: 610px;
+  left: 731px;
   z-index: 2;
 }
 .pink_smile {
@@ -93,4 +93,27 @@
   background: #fafafa;
   height: 200px;
   width: 100%;
+  position: relative;
+}
+.pink_goodie {
+  position: absolute;
+  bottom: 0;
+  left: 15px;
+}
+.footer-block-list {
+  list-style-type: none;
+  display: flex;
+  padding-left: 343px;
+  padding-top: 79px;
+  gap: 30px;
+}
+.green-goodie {
+  position: absolute;
+  top: 0;
+  right: 128px;
+}
+.red_cartoon2 {
+  position: absolute;
+  right: 0;
+  top: 50px;
 }
